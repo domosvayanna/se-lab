@@ -1,0 +1,5 @@
+HEAD
+ez egy fajl az A branch-ben
+
+Ez egy test file a B branch-ben
+branch-B
